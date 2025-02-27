@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">medicosqlite</string>
+    <string-array name="especialidades">
+        <item>--------</item>
+        <item>Cardiologia</item>
+        <item>Medicina</item>
+        <item>Oftalmologia</item>
+    </string-array>
+    <string name="opcion">Seleccione Opcion</string>
+</resources>
